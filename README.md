@@ -1,2 +1,2 @@
-# Elbartus-Jan
+# Elbartus
 Bartsl's personal repository
